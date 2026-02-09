@@ -1,7 +1,7 @@
 # Restaurant Concept Studio (LangChain + Streamlit)
 
 Restaurant Concept Studio is a modern Streamlit app that generates a complete restaurant concept from a cuisine idea — including a **Brand Kit** (name, tagline, story, ambience, persona) and a **structured menu with pricing**.  
-Built with a **modular architecture** using LangChain + OpenAI, designed to be beginner-friendly but also impressive enough for a portfolio project.
+Built with a **modular architecture** using LangChain + OpenAI, designed to be beginner-friendly
 
 ---
 
